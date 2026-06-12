@@ -1,0 +1,6 @@
+{
+  "name": "Padaria",
+  "description": "Site institucional elegante e aconchegante da Padaria, construído com HTML5 estático, CSS3 tradicional e Javascript Puro (Vanilla), totalmente responsivo com um design rústico e moderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
